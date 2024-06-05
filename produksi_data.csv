@@ -1,0 +1,39 @@
+No;Tanggal Transaksi;ID Pelanggan;Nama Pelanggan;Nama Barang;Kode Barang;Jumlah;Harga Satuan (Rp);Harga Total (Rp);Metode Pembayaran;Status Pembayaran
+1;2024-06-05;C001;Budi;Laptop Lenovo IdeaPad Slim 3i;LNS-3i;1;5.999.000;5.999.000;Transfer Bank;Lunas
+2;2024-06-05;C002;Ani;Smartphone Samsung Galaxy A53 5G;SGS-A53-5G;1;5.999.000;5.999.000;Tunai;Lunas
+3;2024-06-05;C003;Cici;Smartwatch Apple Watch Series 7;AWS-S7;1;6.999.000;6.999.000;Kartu Debit;Lunas
+4;2024-06-05;C004;Dimas;Tablet Samsung Galaxy Tab S8;SGS-TAB-S8;1;9.999.000;9.999.000;Tunai;Lunas
+5;2024-06-05;C005;Eka;Kamera Canon EOS M200;CAN-EOS-M200;1;5.499.000;5.499.000;Kartu Kredit;Lunas
+6;2024-06-04;C006;Fani;Televisi LG 55UQ7500;LG-55UQ7500;1;6.999.000;6.999.000;Transfer Bank;Lunas
+7;2024-06-04;C007;Ghani;Mesin cuci Samsung WW10T534DBW/ST;SGS-WW10T534DBW;1;5.999.000;5.999.000;Tunai;Lunas
+8;2024-06-04;C008;Hana;Kulkas LG GN-B292SPBL;LG-GN-B292SPBL;1;4.999.000;4.999.000;Kartu Debit;Lunas
+9;2024-06-04;C009;Ika;Air conditioner LG AC12AW1;LG-AC12AW1;1;3.999.000;3.999.000;Tunai;Lunas
+10;2024-06-04;C010;Joni;Rice cooker Sharp KS-TH18MHT-W;SHP-KS-TH18MHT;1;349.000;349.000;Kartu Kredit;Lunas
+11;2024-06-03;C011;Kiki;Blender Philips HR2115/60;PHL-HR2115;1;499.000;499.000;Transfer Bank;Lunas
+12;2024-06-03;C012;Lulu;Setrika Philips GC1028/30;PHL-GC1028;1;299.000;299.000;Tunai;Lunas
+13;2024-06-03;C013;Meli;Kipas angin Panasonic F-BEJ90A9;;1;499.000;499.000;Transfer Bank;Lunas
+14;03/06/2024;C014;Nina;Vacuum cleaner Electrolux Well Q7;ELX-WQ7;1;2.499.000;2.499.000;Kartu Debit;Lunas
+15;03/06/2024;C015;Oki;Hair dryer Babyliss BAB2660E;BAB-2660E;1;499.000;499.000;Tunai;Lunas
+16;02/06/2024;C016;Puri;Smartphone Xiaomi Redmi Note 11 Pro;XMI-RN11-PRO;1;4.999.000;4.999.000;Transfer Bank;Lunas
+17;02/06/2024;C017;Qori;Laptop Asus Vivobook 14 A416EA-HE302T;ASU-A416EA;1;6.499.000;6.499.000;Kartu Kredit;Lunas
+18;02/06/2024;C018;Rara;Smartwatch Huawei Watch Fit 2;HUA-WATCH-FIT-2;1;1.999.000;1.999.000;Tunai;Lunas
+19;02/06/2024;C019;Siska;Tablet Lenovo Tab M10 Plus Gen 3;LEN-TAB-M10-PLUS;1;3.499.000;3.499.000;Kartu Debit;Lunas
+20;02/06/2024;C020;Tika;Kamera Fujifilm Instax Mini 11;FUJ-INSTAX-MINI-11;1;1.199.000;1.199.000;Tunai;Lunas
+21;01/06/2024;C021;Udin;Televisi TCL 55A27G;TCL-55A27G;1;4.299.000;4.299.000;Transfer Bank;Lunas
+22;01/06/2024;C022;Vina;Mesin cuci Polytron PLD-S901;POL-PLD-S901;1;3.499.000;3.499.000;Kartu Kredit;Lunas
+23;01/06/2024;C023;Wati;Kulkas Aqua AQR-D260;AQA-AQR-D260;1;2.999.000;2.999.000;Tunai;Lunas
+24;01/06/2024;C024;Xena;Air conditioner Gree GWC09PB-K65N6;GRE-GWC09PB;1;3.299.000;3.299.000;Kartu Debit;Lunas
+25;01/06/2024;C025;Yudi;Rice cooker Cosmos CRJ-635;COS-CRJ-635;1;249.000;249.000;Tunai;Lunas
+26;31/05/2024;C026;Ani;Blender Oxone BX-452;OXN-BX-452;1;249.000;249.000;Tunai;Lunas
+26;31/05/2024;C026;Ani;Blender Oxone BX-452;OXN-BX-452;1;399.000;399.000;Kartu Debit;Lunas
+27;31/05/2024;C027;Budi;Setrika Philips GC193/30;PHL-GC193;1;349.000;349.000;Tunai;Lunas
+28;31/05/2024;C028;Cici;Kipas angin Panasonic F-BEJ15A9;PAN-F-BEJ15A9;1;399.000;399.000;Transfer Bank;Lunas
+29;31/05/2024;C029;Dimas;Vacuum cleaner Electrolux Well Q7;ELX-WQ7;1;2.499.000;2.499.000;Kartu Kredit;Lunas
+30;31/05/2024;C030;Eka;Hair dryer Babyliss BAB2660E;BAB-2660E;1;499.000;499.000;Tunai;Lunas
+31;30/05/2024;C031;Fani;Smartphone Xiaomi Redmi Note 11 Pro;XMI-RN11-PRO;1;4.999.000;4.999.000;Kartu Debit;Lunas
+32;30/05/2024;C032;Ghani;Laptop Asus Vivobook 14 A416EA-HE302T;ASU-A416EA;1;6.499.000;6.499.000;Tunai;Lunas
+33;30/05/2024;C033;Hana;Smartwatch Huawei Watch Fit 2;HUA-WATCH-FIT-2;1;1.999.000;1.999.000;Transfer Bank;Lunas
+34;30/05/2024;C034;Ika;Tablet Lenovo Tab M10 Plus Gen 3;LEN-TAB-M10-PLUS;1;3.499.000;3.499.000;Kartu Kredit;Lunas
+35;30/05/2024;C035;Joni;Kamera Fujifilm Instax Mini 11;FUJ-INSTAX-MINI-11;1;1.199.000;1.199.000;Tunai;Lunas
+36;29/05/2024;C036;Kiki;Televisi TCL 55A27G;TCL-55A27G;1;4.299.000;4.299.000;Kartu Debit;Lunas
+37;29/05/2024;C037;Lulu;Mesin cuci Polytron PLD-S901;POL-PLD-S901;1;3.499.000;3.499.000;Tunai;Lunas
