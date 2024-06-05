@@ -1,0 +1,1 @@
+# TUGASUAS-PatriciaElisabethSimanjuntak-AKUNTANSI-038
